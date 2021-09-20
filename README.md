@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Zinzi1999
+- 👋 Hi, I’m Anushri Wali
 - 👀 I’m interested in java
 - 🌱 I’m currently learning angular
